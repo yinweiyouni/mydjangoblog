@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/blog/static/blog/css/bootstrap.min.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/blog/static/blog/css/custom.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/blog/static/blog/css/highlights" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/blog/static/blog/css/pace.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/blog/static/blog/js/bootstrap.min.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/blog/static/blog/js/jquery-2.1.3.min.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/blog/static/blog/js/modernizr.custom.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/blog/static/blog/js/pace.min.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/blog/static/blog/js/script.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/templetes/blog/base.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/templetes/blog/detail.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/templetes/blog/index.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/templetes/blog/index.html" charset="GBK" />
+  </component>
+</project>
